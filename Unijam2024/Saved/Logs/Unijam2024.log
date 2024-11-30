@@ -20570,3 +20570,151 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.30-09.09.13:531][518]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
 [2024.11.30-09.09.13:531][518]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2024.11.30-09.09.13:531][518]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
+[2024.11.30-09.17.38:540][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.30-09.17.38:543][734]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/BP_MainCharacter1 does not exist, will not scan.
+[2024.11.30-09.17.41:810][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.30-09.17.41:814][914]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/BP_MainCharacter2 does not exist, will not scan.
+[2024.11.30-09.17.42:204][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.30-09.17.42:207][924]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/BP_MainCharacter3 does not exist, will not scan.
+[2024.11.30-09.17.42:478][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.30-09.17.42:480][930]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/BP_MainCharacter4 does not exist, will not scan.
+[2024.11.30-09.17.44:911][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.30-09.17.44:913][ 56]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/TopDown/Blueprints/BP_MainCharacter5 does not exist, will not scan.
+[2024.11.30-09.17.52:299][479]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_MainCharacter1.BP_MainCharacter1
+[2024.11.30-09.17.57:551][727]LogSlate: Window 'BP_MainCharacter1' being destroyed
+[2024.11.30-09.17.57:563][727]LogSlate: Window 'BP_MainCharacter1' being destroyed
+[2024.11.30-09.17.57:577][727]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-09.17.57:577][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-09.17.57:612][727]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.30-09.17.57:612][727]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-09.17.57:612][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-09.17.57:655][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.30-09.18.01:418][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.30-09.18.03:648][948]LogSlate: Window 'Delete Assets' being destroyed
+[2024.11.30-09.18.03:706][948]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TopDown/Blueprints/BP_MainCharacter5.BP_MainCharacter5
+	Asset Type: Blueprint
+[2024.11.30-09.18.03:943][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.11.30-09.18.03:973][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.30-09.18.03:986][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.30-09.18.03:998][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.30-09.18.04:030][948]LogAutomationController: Ignoring very large delta of 2.63 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.11.30-09.18.18:335][789]LogContentBrowser: Attempting asset rename: BP_MainCharacter1 -> BP_MainCharacterHélo
+[2024.11.30-09.18.18:374][789]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterHélo.SKEL_BP_MainCharacterHélo_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter1.PackageMetaData'
+[2024.11.30-09.18.18:374][789]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter1.PackageMetaData'
+[2024.11.30-09.18.18:374][789]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterHélo.SKEL_BP_MainCharacterHélo_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter1.PackageMetaData'
+[2024.11.30-09.18.18:374][789]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterHélo.SKEL_BP_MainCharacterHélo_C:UserConstructionScript' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter1.PackageMetaData'
+[2024.11.30-09.18.18:374][789]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter1.PackageMetaData'
+[2024.11.30-09.18.18:380][789]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.18.18:455][789]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacterHélo] ([2] browsable assets)...
+[2024.11.30-09.18.18:475][789]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo_C]
+[2024.11.30-09.18.18:490][789]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo]
+[2024.11.30-09.18.18:490][789]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacterHélo]
+[2024.11.30-09.18.18:497][789]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacterHélo
+[2024.11.30-09.18.18:497][789]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacterHélo9FE440194B6D17B0360FAAA626A61D51.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacterHélo.uasset'
+[2024.11.30-09.18.18:510][789]LogFileHelpers: InternalPromptForCheckoutAndSave took 130.143 ms (total: 930.951 ms)
+[2024.11.30-09.18.18:528][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.30-09.18.18:547][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.30-09.18.18:558][789]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.30-09.18.18:623][789]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-09.18.18:623][789]LogContentValidation: Enabled validators:
+[2024.11.30-09.18.18:623][789]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.18.18:623][789]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.18.18:623][789]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.18.18:623][789]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo
+[2024.11.30-09.18.18:623][789]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacterHélo Validating asset
+[2024.11.30-09.18.19:091][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_MainCharacterHélo.BP_MainCharacterHélo
+[2024.11.30-09.18.20:848][903]LogSlate: Window 'BP_MainCharacterHélo' being destroyed
+[2024.11.30-09.18.20:856][903]LogSlate: Window 'BP_MainCharacterHélo' being destroyed
+[2024.11.30-09.18.20:859][903]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.11.30-09.18.20:859][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.30-09.18.20:966][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.30-09.18.43:846][268]LogContentBrowser: Attempting asset rename: BP_MainCharacter2 -> BP_MainCharacterSwann
+[2024.11.30-09.18.43:868][268]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterSwann.SKEL_BP_MainCharacterSwann_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter2.PackageMetaData'
+[2024.11.30-09.18.43:868][268]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterSwann.BP_MainCharacterSwann_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter2.PackageMetaData'
+[2024.11.30-09.18.43:869][268]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterSwann.SKEL_BP_MainCharacterSwann_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter2.PackageMetaData'
+[2024.11.30-09.18.43:869][268]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterSwann.SKEL_BP_MainCharacterSwann_C:UserConstructionScript' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter2.PackageMetaData'
+[2024.11.30-09.18.43:869][268]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterSwann.BP_MainCharacterSwann_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter2.PackageMetaData'
+[2024.11.30-09.18.43:869][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.18.43:937][268]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacterSwann] ([2] browsable assets)...
+[2024.11.30-09.18.43:951][268]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_MainCharacterSwann.BP_MainCharacterSwann_C]
+[2024.11.30-09.18.43:966][268]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacterSwann.BP_MainCharacterSwann]
+[2024.11.30-09.18.43:966][268]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacterSwann]
+[2024.11.30-09.18.43:973][268]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacterSwann
+[2024.11.30-09.18.43:973][268]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacterSwann28819E8E4453CE27F21E4AA17E4BD8DD.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacterSwann.uasset'
+[2024.11.30-09.18.43:987][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.057 ms (total: 1.04 sec)
+[2024.11.30-09.18.44:004][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.30-09.18.44:017][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.11.30-09.18.44:030][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.11.30-09.18.44:093][268]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-09.18.44:093][268]LogContentValidation: Enabled validators:
+[2024.11.30-09.18.44:093][268]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.18.44:093][268]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.18.44:093][268]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.18.44:093][268]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacterSwann.BP_MainCharacterSwann
+[2024.11.30-09.18.44:093][268]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacterSwann Validating asset
+[2024.11.30-09.19.21:782][518]LogContentBrowser: Attempting asset rename: BP_MainCharacter3 -> BP_MainCharacterCelian
+[2024.11.30-09.19.21:804][518]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterCelian.SKEL_BP_MainCharacterCelian_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter3.PackageMetaData'
+[2024.11.30-09.19.21:804][518]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterCelian.BP_MainCharacterCelian_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter3.PackageMetaData'
+[2024.11.30-09.19.21:804][518]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterCelian.SKEL_BP_MainCharacterCelian_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter3.PackageMetaData'
+[2024.11.30-09.19.21:804][518]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterCelian.SKEL_BP_MainCharacterCelian_C:UserConstructionScript' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter3.PackageMetaData'
+[2024.11.30-09.19.21:804][518]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterCelian.BP_MainCharacterCelian_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter3.PackageMetaData'
+[2024.11.30-09.19.21:805][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.19.21:866][518]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacterCelian] ([2] browsable assets)...
+[2024.11.30-09.19.21:884][518]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_MainCharacterCelian.BP_MainCharacterCelian_C]
+[2024.11.30-09.19.21:899][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacterCelian.BP_MainCharacterCelian]
+[2024.11.30-09.19.21:899][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacterCelian]
+[2024.11.30-09.19.21:905][518]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacterCelian
+[2024.11.30-09.19.21:905][518]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacterCelian0406D8924E6132951B02FF9296425643.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacterCelian.uasset'
+[2024.11.30-09.19.21:916][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.512 ms (total: 1.15 sec)
+[2024.11.30-09.19.21:934][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.30-09.19.21:948][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.30-09.19.21:960][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.11.30-09.19.22:026][518]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-09.19.22:026][518]LogContentValidation: Enabled validators:
+[2024.11.30-09.19.22:026][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.19.22:026][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.19.22:026][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.19.22:026][518]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacterCelian.BP_MainCharacterCelian
+[2024.11.30-09.19.22:026][518]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacterCelian Validating asset
+[2024.11.30-09.19.32:814][156]LogContentBrowser: Attempting asset rename: BP_MainCharacter4 -> BP_MainCharacterAlessandro
+[2024.11.30-09.19.32:837][156]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterAlessandro.SKEL_BP_MainCharacterAlessandro_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter4.PackageMetaData'
+[2024.11.30-09.19.32:837][156]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterAlessandro.BP_MainCharacterAlessandro_C' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter4.PackageMetaData'
+[2024.11.30-09.19.32:837][156]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterAlessandro.SKEL_BP_MainCharacterAlessandro_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter4.PackageMetaData'
+[2024.11.30-09.19.32:837][156]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterAlessandro.SKEL_BP_MainCharacterAlessandro_C:UserConstructionScript' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter4.PackageMetaData'
+[2024.11.30-09.19.32:837][156]LogMetaData: Removing '/Game/TopDown/Blueprints/BP_MainCharacterAlessandro.BP_MainCharacterAlessandro_C:ReceiveTick' ref from Metadata '/Game/TopDown/Blueprints/BP_MainCharacter4.PackageMetaData'
+[2024.11.30-09.19.32:837][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.19.32:897][156]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacterAlessandro] ([2] browsable assets)...
+[2024.11.30-09.19.32:915][156]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/TopDown/Blueprints/BP_MainCharacterAlessandro.BP_MainCharacterAlessandro_C]
+[2024.11.30-09.19.32:930][156]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacterAlessandro.BP_MainCharacterAlessandro]
+[2024.11.30-09.19.32:930][156]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacterAlessandro]
+[2024.11.30-09.19.32:935][156]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacterAlessandro
+[2024.11.30-09.19.32:935][156]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacterAlessandro45E0D6E443CA8D7FC2190EB6FF2A7280.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacterAlessandro.uasset'
+[2024.11.30-09.19.32:948][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.822 ms (total: 1.26 sec)
+[2024.11.30-09.19.32:966][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.11.30-09.19.32:980][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.30-09.19.32:992][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.11.30-09.19.33:067][156]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-09.19.33:067][156]LogContentValidation: Enabled validators:
+[2024.11.30-09.19.33:067][156]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.19.33:067][156]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.19.33:067][156]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.19.33:067][156]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacterAlessandro.BP_MainCharacterAlessandro
+[2024.11.30-09.19.33:067][156]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacterAlessandro Validating asset
+[2024.11.30-09.19.38:485][477]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_MainCharacter.BP_MainCharacter
+[2024.11.30-09.19.44:520][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.19.44:579][817]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacter] ([2] browsable assets)...
+[2024.11.30-09.19.44:595][817]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacter.BP_MainCharacter]
+[2024.11.30-09.19.44:595][817]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacter]
+[2024.11.30-09.19.44:595][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_MainCharacter" FILE="C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacter.uasset" SILENT=true
+[2024.11.30-09.19.44:600][817]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacter
+[2024.11.30-09.19.44:600][817]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacterFC20E5E644F658AEA9F85EA1BBBCB18B.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacter.uasset'
+[2024.11.30-09.19.44:608][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.082 ms (total: 1.35 sec)
+[2024.11.30-09.19.44:677][817]LogContentValidation: Display: Starting to validate 1 assets
+[2024.11.30-09.19.44:677][817]LogContentValidation: Enabled validators:
+[2024.11.30-09.19.44:677][817]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.19.44:677][817]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.19.44:677][817]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.19.44:677][817]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacter.BP_MainCharacter
+[2024.11.30-09.19.44:677][817]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacter Validating asset
+[2024.11.30-09.20.16:524][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
