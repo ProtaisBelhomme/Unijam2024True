@@ -1,2 +1,6 @@
-[1129/230627.631:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 13
-[1129/230757.079:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1130/184234.789:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[1130/184248.696:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1130/184252.724:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[1130/184252.901:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 15
+[1130/184252.969:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 3
+[1130/184435.782:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
