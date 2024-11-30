@@ -20535,3 +20535,38 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.30-09.04.44:184][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
 [2024.11.30-09.04.44:195][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2024.11.30-09.04.44:257][223]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.11.30-09.09.13:325][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.30-09.09.13:329][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.30-09.09.13:402][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_MainCharacter] ([2] browsable assets)...
+[2024.11.30-09.09.13:411][518]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_MainCharacter.BP_MainCharacter]
+[2024.11.30-09.09.13:411][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_MainCharacter]
+[2024.11.30-09.09.13:411][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_MainCharacter" FILE="C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacter.uasset" SILENT=true
+[2024.11.30-09.09.13:417][518]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_MainCharacter
+[2024.11.30-09.09.13:417][518]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_MainCharacter92BD3AFD4905FE74D67E12A2881FB289.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_MainCharacter.uasset'
+[2024.11.30-09.09.13:418][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownController] ([2] browsable assets)...
+[2024.11.30-09.09.13:418][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownController]
+[2024.11.30-09.09.13:426][518]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownController
+[2024.11.30-09.09.13:426][518]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_TopDownControllerACD164AA4064D8CC98621CA045B9E27B.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Blueprints/BP_TopDownController.uasset'
+[2024.11.30-09.09.13:427][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/IMC_Default] ([1] browsable assets)...
+[2024.11.30-09.09.13:427][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/IMC_Default]
+[2024.11.30-09.09.13:427][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2024.11.30-09.09.13:429][518]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2024.11.30-09.09.13:429][518]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/IMC_Default788C00A94C804144AE6626A432500731.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/TopDown/Input/IMC_Default.uasset'
+[2024.11.30-09.09.13:430][518]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.30-09.09.13:430][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.30-09.09.13:436][518]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.30-09.09.13:436][518]LogSavePackage: Moving 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Saved/BP_FirstPersonCharacterF49EDF7E4A90297A79D129AD7E7F30EC.tmp' to 'C:/Users/helo/Documents/projets/Unijam2024True/Unijam2024/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.30-09.09.13:449][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.146 ms (total: 800.808 ms)
+[2024.11.30-09.09.13:529][518]LogContentValidation: Display: Starting to validate 4 assets
+[2024.11.30-09.09.13:529][518]LogContentValidation: Enabled validators:
+[2024.11.30-09.09.13:529][518]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.30-09.09.13:529][518]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.30-09.09.13:529][518]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.30-09.09.13:529][518]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_MainCharacter.BP_MainCharacter
+[2024.11.30-09.09.13:531][518]AssetCheck: /Game/TopDown/Blueprints/BP_MainCharacter Validating asset
+[2024.11.30-09.09.13:531][518]LogContentValidation: Display: Validating asset /Game/TopDown/Blueprints/BP_TopDownController.BP_TopDownController
+[2024.11.30-09.09.13:531][518]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownController Validating asset
+[2024.11.30-09.09.13:531][518]LogContentValidation: Display: Validating asset /Game/TopDown/Input/IMC_Default.IMC_Default
+[2024.11.30-09.09.13:531][518]AssetCheck: /Game/TopDown/Input/IMC_Default Validating asset
+[2024.11.30-09.09.13:531][518]LogContentValidation: Display: Validating asset /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.30-09.09.13:531][518]AssetCheck: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter Validating asset
